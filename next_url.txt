@@ -1,0 +1,1 @@
+https://api.myanimelist.net/v2/anime/ranking?offset=0&ranking_type=all&limit=25&fields=id%2Ctitle%2Cstart_date%2Cend_date%2Csynopsis%2Cmean%2Crank%2Cpopularity%2Cnum_list_users%2Cnum_scoring_users%2Cgenres%2Cnsfw%2Ccreated_at%2Cupdated_at%2Cmedia_type%2Cstatus%2Cnum_episodes%2Caverage_episode_duration%2Crating%2Cbackground&nsfw=true
